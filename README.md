@@ -22,4 +22,4 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
-- What are three things you learned during this lab?
+- What are three things you learned during this lab? SQL!
